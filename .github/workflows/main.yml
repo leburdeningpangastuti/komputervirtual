@@ -9,7 +9,7 @@ jobs:
   build:
 
 
-    runs-on: macos-stable
+    runs-on: macos-13
 
 
     steps:
